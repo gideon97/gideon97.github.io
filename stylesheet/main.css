@@ -6,5 +6,7 @@ h1 {
 	font-family: 'Open Sans', sans-serif;
 	color:#586e75;
 	font-size: 108px;
-	font-weight: 800;
+	font-weight: 700;
+	position: relative;
+	left: 50px;
 }
