@@ -6,6 +6,7 @@ body {
 	width: 1200px;
 	/*border: 1px solid #000000;*/
 	margin: auto;
+	margin-top: -30px;
 }
 
 #intro {
@@ -20,8 +21,19 @@ body {
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	color:#586e75;
-	font-size: 100px;
+	font-size: 120px;
 	font-weight: 700;
 	position: relative;
 	line-height: 1.1;
+}
+
+header {
+	min-width: 100%;
+	height: 32px;
+	background-color: #93a1a1;
+	margin: -8px -8px 0px -8px;
+}
+
+#float {
+	float: center;
 }
