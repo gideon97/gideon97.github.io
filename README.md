@@ -1,2 +1,2 @@
-# gideon97.github.io
+# HTML
 My personal Github page at [gideon97.github.io](https://gideon97.github.io)
