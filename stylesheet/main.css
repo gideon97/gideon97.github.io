@@ -11,9 +11,10 @@ body {
 #intro {
 	font-family: 'Open Sans', sans-serif;
 	color: #b58900;
-	font-size: 22px;
+	font-size: 18px;
 	position: relative;
 	font-weight: 300;
+	top: -50px;
 }
 
 h1 {
