@@ -1,2 +1,2 @@
 # gideon97.github.io
-My personal Github page at [I'm an inline-style link](https://www.google.com)
+My personal Github page at [gideon97.github.io](https://gideon97.github.io)
